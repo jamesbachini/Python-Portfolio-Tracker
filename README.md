@@ -1,7 +1,8 @@
-
-# Real-Time Crypto Portfolio Tracker
+# Python Crypto Portfolio Tracker
 
 This is a Python script that tracks the real-time value of your cryptocurrency portfolio using the Coinbase API. The script fetches the current prices of specified cryptocurrencies and calculates the total portfolio value based on the amount of each cryptocurrency you own.
+
+Full tutorial here: https://jamesbachini.com/building-a-portfolio-tracker-in-python/
 
 ## Features
 
